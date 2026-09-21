@@ -197,4 +197,16 @@ SmartPitaya/
 ├── package-lock.json
 
 └── README.md
+## 📸 Screenshots
 
+### Home
+![SmartPitaya Home](screenshots/Home.png)
+
+### Disease Detection Result
+![Disease Detection Result](screenshots/prediction_result.png)
+
+### Marketplace
+![Farmer Marketplace](screenshots/marketplace.png)
+
+### Weather
+![Weather](screenshots/weather.png)

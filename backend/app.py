@@ -14,11 +14,11 @@ from tensorflow.keras.applications.efficientnet import preprocess_input
 # --------------------------------------------------
 IMG_SIZE = (224, 224)
 
-FRUIT_MODEL_PATH = "models/fruit_eff.keras"
-LEAF_MODEL_PATH = "models/leaf_eff.keras"
+FRUIT_MODEL_PATH = "backend/models/fruit_eff.keras"
+LEAF_MODEL_PATH = "backend/models/leaf_eff.keras"
 
-FRUIT_LABELS_PATH = "models/fruit_classes.json"
-LEAF_LABELS_PATH = "models/leaf_classes.json"
+FRUIT_LABELS_PATH = "backend/models/fruit_classes.json"
+LEAF_LABELS_PATH = "backend/models/leaf_classes.json"
 
 # --------------------------------------------------
 # APP INIT
